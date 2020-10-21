@@ -1,5 +1,7 @@
 # CSC540Project 1 - UPS(University Parking Services)
 
+JDBC program based on Orcale server database
+
 ## Team Members
 
 | Name        | id          | 
